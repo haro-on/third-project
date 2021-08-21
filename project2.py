@@ -1,3 +1,3 @@
 age=int(input("Enter your age:"))
 print("your age is: ", age)
-print("Udacity")
+print("Udacity 10")
